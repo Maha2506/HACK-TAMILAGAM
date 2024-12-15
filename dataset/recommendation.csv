@@ -1,0 +1,1001 @@
+user_id,hydration_level,stress_level,fatigue_level,headache,dehydration,fatigue,stress,cold,user_feedback,recommendation,recommendation_encoded
+1,51,1,5,0,0,1,1,1,0,Exercise daily,2
+2,92,7,4,1,0,1,0,1,0,Drink more water,0
+3,14,7,5,1,0,0,0,0,1,Get enough sleep,3
+4,71,0,1,0,1,1,1,0,0,Eat healthy,1
+5,60,2,0,1,1,0,1,1,0,Exercise daily,2
+6,20,9,6,0,0,1,1,1,1,Drink more water,0
+7,82,8,6,1,1,0,1,0,0,Eat healthy,1
+8,86,4,9,0,0,1,1,1,1,Get enough sleep,3
+9,74,5,9,1,1,1,1,1,0,Get enough sleep,3
+10,74,3,1,1,1,0,1,0,0,Eat healthy,1
+11,87,9,1,0,0,1,1,1,1,Get enough sleep,3
+12,99,1,0,1,0,1,0,0,1,Exercise daily,2
+13,23,7,9,0,0,1,0,0,1,Exercise daily,2
+14,2,5,7,0,0,0,0,0,1,Exercise daily,2
+15,21,4,7,0,1,1,1,0,1,Get enough sleep,3
+16,52,8,0,0,1,0,1,1,1,Exercise daily,2
+17,1,0,7,0,1,1,1,0,0,Drink more water,0
+18,87,4,8,1,0,1,0,1,0,Exercise daily,2
+19,29,5,3,1,0,0,1,1,1,Exercise daily,2
+20,37,4,0,0,1,1,0,1,0,Get enough sleep,3
+21,1,5,0,1,0,1,1,1,1,Exercise daily,2
+22,63,5,2,0,1,0,0,1,0,Eat healthy,1
+23,59,6,4,1,1,1,0,0,1,Drink more water,0
+24,20,3,4,1,1,0,0,0,0,Get enough sleep,3
+25,32,7,8,1,1,0,1,0,0,Drink more water,0
+26,75,6,9,1,1,0,0,0,0,Eat healthy,1
+27,57,8,1,0,0,1,1,1,0,Get enough sleep,3
+28,21,6,1,0,0,0,1,0,0,Get enough sleep,3
+29,88,2,5,1,0,0,1,1,1,Exercise daily,2
+30,48,2,8,1,1,1,1,1,1,Drink more water,0
+31,90,7,0,0,1,0,1,0,1,Eat healthy,1
+32,58,4,8,1,1,1,0,0,0,Eat healthy,1
+33,41,3,8,0,1,1,1,0,1,Get enough sleep,3
+34,91,7,8,0,0,1,1,0,0,Exercise daily,2
+35,59,5,4,0,0,1,1,1,0,Get enough sleep,3
+36,79,1,8,1,1,0,1,1,0,Get enough sleep,3
+37,14,3,3,0,1,0,1,0,1,Get enough sleep,3
+38,61,3,1,1,1,0,0,1,0,Get enough sleep,3
+39,61,5,5,0,0,0,0,1,1,Eat healthy,1
+40,46,5,3,1,0,0,1,1,1,Eat healthy,1
+41,61,0,5,1,0,1,0,0,0,Get enough sleep,3
+42,50,7,2,1,1,0,0,1,0,Get enough sleep,3
+43,54,5,5,0,1,0,1,0,1,Exercise daily,2
+44,63,2,1,0,0,0,0,0,1,Get enough sleep,3
+45,2,8,1,1,1,1,1,1,1,Eat healthy,1
+46,50,1,8,1,0,1,0,1,1,Drink more water,0
+47,6,7,6,1,1,0,0,0,1,Eat healthy,1
+48,20,9,2,0,0,1,0,1,1,Exercise daily,2
+49,72,2,0,0,1,0,1,1,0,Eat healthy,1
+50,38,4,7,0,0,0,0,0,1,Drink more water,0
+51,17,5,5,0,0,1,0,0,1,Get enough sleep,3
+52,3,9,6,1,0,1,1,0,1,Drink more water,0
+53,88,5,8,1,0,0,1,0,1,Get enough sleep,3
+54,59,3,4,0,0,0,0,1,0,Get enough sleep,3
+55,13,2,0,0,0,1,1,1,0,Eat healthy,1
+56,8,3,9,1,1,0,0,0,1,Eat healthy,1
+57,89,0,6,0,1,1,0,0,1,Eat healthy,1
+58,52,3,4,0,1,0,1,0,1,Exercise daily,2
+59,1,0,2,0,0,1,1,1,0,Eat healthy,1
+60,83,0,8,0,0,0,1,0,0,Exercise daily,2
+61,91,9,0,0,1,0,0,1,0,Eat healthy,1
+62,59,5,0,0,0,1,1,0,0,Get enough sleep,3
+63,70,4,0,1,0,0,0,0,0,Exercise daily,2
+64,43,3,2,0,0,0,1,0,0,Drink more water,0
+65,7,2,5,0,0,1,0,1,1,Exercise daily,2
+66,46,0,9,1,0,0,1,1,0,Exercise daily,2
+67,34,5,2,1,1,0,0,1,0,Drink more water,0
+68,77,1,7,1,1,0,1,0,1,Exercise daily,2
+69,80,7,9,0,1,1,0,1,0,Get enough sleep,3
+70,35,9,1,1,1,1,1,1,1,Eat healthy,1
+71,49,4,8,0,1,1,1,0,0,Drink more water,0
+72,3,6,2,0,0,0,0,0,1,Eat healthy,1
+73,1,9,4,0,0,0,1,1,1,Get enough sleep,3
+74,5,1,9,1,0,0,0,1,1,Drink more water,0
+75,53,7,7,1,0,0,0,1,1,Eat healthy,1
+76,3,1,1,1,1,1,1,1,1,Eat healthy,1
+77,53,3,5,1,1,0,0,0,0,Get enough sleep,3
+78,92,0,4,1,1,0,1,0,0,Eat healthy,1
+79,62,4,9,0,0,0,1,0,1,Get enough sleep,3
+80,17,8,8,0,1,1,0,1,1,Exercise daily,2
+81,89,0,4,0,0,0,1,1,1,Get enough sleep,3
+82,43,8,1,0,1,0,0,0,0,Exercise daily,2
+83,33,7,4,1,1,0,0,0,1,Drink more water,0
+84,73,5,3,1,0,0,1,1,1,Eat healthy,1
+85,61,6,6,0,0,0,1,1,1,Get enough sleep,3
+86,99,2,5,1,1,1,0,0,1,Get enough sleep,3
+87,13,0,1,1,1,0,0,0,0,Eat healthy,1
+88,94,4,4,0,0,0,1,0,1,Eat healthy,1
+89,47,1,6,0,1,0,1,1,1,Drink more water,0
+90,14,4,6,1,1,0,1,1,0,Drink more water,0
+91,71,7,4,1,0,0,1,1,1,Get enough sleep,3
+92,77,8,8,0,1,0,0,1,1,Drink more water,0
+93,86,1,3,0,0,0,1,1,0,Exercise daily,2
+94,61,2,2,0,1,0,0,1,0,Drink more water,0
+95,39,2,3,1,0,0,0,0,0,Drink more water,0
+96,84,0,4,0,1,0,1,0,1,Get enough sleep,3
+97,79,7,5,0,0,1,0,1,1,Exercise daily,2
+98,81,5,2,1,1,1,1,0,0,Drink more water,0
+99,52,7,1,1,0,1,0,1,0,Exercise daily,2
+100,23,8,3,1,1,1,1,0,0,Exercise daily,2
+101,25,4,4,1,1,0,0,1,1,Exercise daily,2
+102,88,2,3,1,1,1,0,0,1,Eat healthy,1
+103,59,4,2,0,1,1,1,0,0,Eat healthy,1
+104,40,4,7,0,1,0,1,1,1,Eat healthy,1
+105,28,4,9,1,1,1,0,1,0,Eat healthy,1
+106,14,2,3,1,1,1,0,0,1,Get enough sleep,3
+107,44,9,1,1,1,0,1,0,1,Drink more water,0
+108,64,3,1,1,1,0,0,1,1,Eat healthy,1
+109,88,8,0,1,0,0,1,0,1,Get enough sleep,3
+110,70,9,3,0,0,1,0,1,0,Drink more water,0
+111,8,8,9,0,1,1,1,1,1,Eat healthy,1
+112,87,1,8,0,0,0,0,0,1,Drink more water,0
+113,0,7,6,0,1,0,1,1,0,Eat healthy,1
+114,7,7,9,1,1,1,1,0,1,Get enough sleep,3
+115,87,6,6,0,0,0,0,0,0,Exercise daily,2
+116,62,7,6,1,1,1,1,1,0,Exercise daily,2
+117,10,2,7,1,1,0,0,0,1,Drink more water,0
+118,80,5,0,1,0,0,1,1,1,Get enough sleep,3
+119,7,0,9,0,0,1,1,1,0,Exercise daily,2
+120,34,6,9,1,1,0,1,1,0,Eat healthy,1
+121,34,0,7,0,0,0,0,0,0,Exercise daily,2
+122,32,8,3,0,0,0,1,1,1,Drink more water,0
+123,4,0,3,1,1,1,0,0,0,Drink more water,0
+124,40,0,3,1,0,0,1,1,0,Get enough sleep,3
+125,27,6,5,1,0,0,0,1,0,Drink more water,0
+126,6,1,6,0,1,0,0,1,1,Exercise daily,2
+127,72,4,5,1,0,0,0,0,0,Exercise daily,2
+128,71,7,0,0,0,0,1,0,1,Exercise daily,2
+129,11,7,7,1,1,0,0,1,1,Exercise daily,2
+130,33,2,9,1,1,1,1,1,0,Get enough sleep,3
+131,32,6,6,0,1,1,0,0,1,Eat healthy,1
+132,47,2,5,0,0,0,0,0,0,Eat healthy,1
+133,22,5,5,0,1,1,0,0,1,Get enough sleep,3
+134,61,5,4,0,1,1,0,1,1,Drink more water,0
+135,87,2,5,0,0,0,1,0,0,Eat healthy,1
+136,36,6,8,0,1,1,0,1,0,Drink more water,0
+137,98,2,9,1,1,1,0,0,0,Eat healthy,1
+138,43,7,8,1,1,1,1,1,1,Drink more water,0
+139,85,9,9,0,1,1,0,1,1,Get enough sleep,3
+140,90,3,7,1,0,1,0,1,0,Exercise daily,2
+141,34,0,9,0,1,1,0,0,0,Drink more water,0
+142,64,3,8,1,1,1,0,0,1,Exercise daily,2
+143,98,6,9,1,0,1,1,0,1,Drink more water,0
+144,46,3,7,0,1,0,1,1,1,Drink more water,0
+145,77,5,7,0,0,0,0,1,0,Drink more water,0
+146,2,8,0,0,0,1,1,0,1,Drink more water,0
+147,0,0,9,1,0,1,1,1,0,Drink more water,0
+148,4,4,4,0,1,0,0,1,1,Exercise daily,2
+149,89,6,3,1,0,1,1,1,1,Drink more water,0
+150,13,0,1,0,0,1,0,0,0,Exercise daily,2
+151,26,3,7,1,0,0,1,1,0,Get enough sleep,3
+152,8,5,2,1,1,0,1,0,0,Eat healthy,1
+153,78,1,3,0,1,0,1,0,1,Drink more water,0
+154,14,9,6,1,1,1,0,0,1,Eat healthy,1
+155,89,4,9,1,1,1,1,0,1,Exercise daily,2
+156,41,9,8,0,1,0,0,0,0,Get enough sleep,3
+157,76,0,1,1,1,0,0,1,1,Get enough sleep,3
+158,50,5,2,0,1,1,1,0,0,Get enough sleep,3
+159,62,5,3,0,0,0,0,0,0,Eat healthy,1
+160,95,3,9,0,0,1,1,0,0,Exercise daily,2
+161,51,7,0,0,0,1,0,1,1,Drink more water,0
+162,95,3,6,1,0,0,0,1,1,Drink more water,0
+163,3,7,1,1,1,0,1,1,0,Exercise daily,2
+164,93,7,4,1,0,1,1,1,1,Eat healthy,1
+165,22,4,0,0,0,0,1,0,0,Drink more water,0
+166,14,3,2,1,0,0,1,0,0,Exercise daily,2
+167,42,1,1,1,0,0,0,1,1,Drink more water,0
+168,28,2,0,0,1,0,0,1,0,Get enough sleep,3
+169,35,2,6,0,1,1,0,1,0,Drink more water,0
+170,12,3,4,1,1,1,1,1,1,Eat healthy,1
+171,31,3,0,0,0,1,0,0,0,Exercise daily,2
+172,70,9,5,0,1,1,1,1,0,Eat healthy,1
+173,58,4,4,0,0,0,0,1,0,Exercise daily,2
+174,85,3,2,0,1,0,1,1,0,Get enough sleep,3
+175,27,9,6,1,1,1,0,1,0,Exercise daily,2
+176,65,7,9,0,1,1,0,1,0,Drink more water,0
+177,41,5,8,0,1,0,1,1,0,Drink more water,0
+178,44,5,8,0,1,1,0,1,1,Get enough sleep,3
+179,61,7,8,0,0,1,1,0,1,Exercise daily,2
+180,56,6,1,0,1,0,0,0,0,Get enough sleep,3
+181,5,9,2,0,0,1,0,0,0,Drink more water,0
+182,27,9,6,0,0,0,1,0,1,Eat healthy,1
+183,27,7,4,0,0,0,1,0,1,Get enough sleep,3
+184,43,1,1,1,0,1,0,0,1,Eat healthy,1
+185,83,8,2,0,0,0,0,1,1,Eat healthy,1
+186,29,0,9,1,1,1,0,1,1,Exercise daily,2
+187,61,7,5,0,1,0,0,0,0,Get enough sleep,3
+188,74,3,6,0,1,1,0,1,1,Eat healthy,1
+189,91,3,8,0,1,1,0,0,1,Eat healthy,1
+190,88,4,0,0,0,1,1,1,1,Exercise daily,2
+191,61,7,6,1,1,0,1,1,0,Exercise daily,2
+192,96,4,7,0,1,0,1,1,0,Drink more water,0
+193,0,7,2,0,0,1,0,1,0,Eat healthy,1
+194,26,9,3,1,0,0,0,1,0,Drink more water,0
+195,61,0,9,1,1,1,0,1,0,Eat healthy,1
+196,76,9,5,0,1,1,1,0,0,Drink more water,0
+197,2,8,9,1,0,0,1,0,1,Exercise daily,2
+198,69,5,6,1,1,1,0,1,0,Get enough sleep,3
+199,71,2,3,1,1,0,0,0,0,Exercise daily,2
+200,26,7,7,0,1,1,1,1,1,Drink more water,0
+201,8,8,4,0,1,0,1,0,0,Drink more water,0
+202,61,5,0,0,0,1,1,1,1,Get enough sleep,3
+203,36,6,3,1,0,1,0,0,1,Eat healthy,1
+204,96,0,2,0,0,0,0,1,0,Drink more water,0
+205,50,4,8,1,1,1,0,0,1,Drink more water,0
+206,43,4,7,0,1,1,1,1,1,Drink more water,0
+207,23,9,0,0,1,0,1,0,1,Get enough sleep,3
+208,78,3,5,1,1,1,0,1,1,Exercise daily,2
+209,58,5,8,0,1,0,0,1,0,Drink more water,0
+210,31,6,6,1,0,1,1,1,1,Get enough sleep,3
+211,95,8,3,1,1,0,0,0,0,Drink more water,0
+212,87,0,0,0,1,1,1,0,1,Eat healthy,1
+213,51,5,1,1,0,1,1,0,1,Get enough sleep,3
+214,61,6,4,0,1,1,0,1,1,Drink more water,0
+215,57,2,4,0,0,0,1,0,0,Get enough sleep,3
+216,51,7,7,1,0,0,0,1,0,Drink more water,0
+217,11,4,5,0,0,0,1,0,0,Exercise daily,2
+218,38,8,7,1,0,0,1,0,1,Drink more water,0
+219,1,4,1,0,0,1,0,0,1,Get enough sleep,3
+220,2,8,2,0,1,1,1,0,1,Eat healthy,1
+221,55,9,5,0,0,0,0,1,1,Eat healthy,1
+222,80,3,9,0,0,0,0,0,0,Eat healthy,1
+223,58,8,2,0,1,0,1,0,1,Drink more water,0
+224,1,4,5,1,1,1,0,1,0,Exercise daily,2
+225,1,9,5,1,0,0,0,1,1,Drink more water,0
+226,91,8,1,1,1,0,0,0,0,Eat healthy,1
+227,53,2,6,1,1,1,0,0,0,Get enough sleep,3
+228,86,3,1,1,0,1,0,1,1,Eat healthy,1
+229,95,8,5,1,0,0,0,1,1,Get enough sleep,3
+230,96,9,0,0,1,1,1,1,0,Exercise daily,2
+231,0,5,2,0,0,0,0,0,1,Get enough sleep,3
+232,18,1,1,1,0,1,1,0,1,Drink more water,0
+233,1,6,6,1,1,0,1,0,0,Drink more water,0
+234,52,1,3,0,0,0,0,1,0,Drink more water,0
+235,43,1,7,0,0,0,1,1,0,Get enough sleep,3
+236,89,0,5,0,0,0,1,1,0,Drink more water,0
+237,31,2,9,1,0,1,0,0,1,Drink more water,0
+238,69,5,3,1,0,1,0,1,0,Drink more water,0
+239,31,7,4,1,1,1,0,0,0,Exercise daily,2
+240,67,8,8,0,1,1,1,1,0,Get enough sleep,3
+241,54,6,6,0,0,0,1,0,1,Get enough sleep,3
+242,74,3,9,1,1,0,0,0,0,Eat healthy,1
+243,55,5,8,1,0,1,0,1,1,Get enough sleep,3
+244,16,4,6,0,0,1,1,0,0,Exercise daily,2
+245,37,7,0,0,0,1,1,1,0,Get enough sleep,3
+246,23,0,7,0,0,1,1,0,1,Exercise daily,2
+247,68,0,3,0,0,1,1,1,0,Exercise daily,2
+248,97,5,2,1,1,0,0,1,0,Get enough sleep,3
+249,69,9,6,0,1,0,1,0,1,Eat healthy,1
+250,85,1,2,0,0,0,1,1,0,Drink more water,0
+251,10,4,7,0,1,1,1,0,0,Drink more water,0
+252,15,0,5,1,0,1,1,1,0,Get enough sleep,3
+253,96,6,4,1,1,1,0,1,0,Get enough sleep,3
+254,72,0,3,0,0,1,0,1,1,Exercise daily,2
+255,58,3,7,0,1,0,1,1,0,Get enough sleep,3
+256,69,8,7,0,0,0,1,0,1,Exercise daily,2
+257,79,0,0,1,0,1,0,1,0,Eat healthy,1
+258,92,3,8,1,1,0,0,1,1,Get enough sleep,3
+259,2,5,4,1,1,0,1,0,0,Drink more water,0
+260,19,5,3,0,0,1,1,0,1,Drink more water,0
+261,58,7,5,1,1,1,0,0,0,Get enough sleep,3
+262,35,0,5,0,0,1,0,0,1,Exercise daily,2
+263,18,6,1,0,1,1,0,0,1,Drink more water,0
+264,89,0,7,0,1,1,0,0,0,Exercise daily,2
+265,66,6,6,1,0,1,0,1,1,Get enough sleep,3
+266,18,2,0,0,1,0,0,0,0,Get enough sleep,3
+267,19,7,4,1,1,0,1,1,0,Drink more water,0
+268,95,2,5,1,0,1,0,0,0,Get enough sleep,3
+269,70,0,3,0,1,0,0,1,0,Eat healthy,1
+270,51,7,1,0,0,1,0,1,0,Eat healthy,1
+271,32,2,3,1,0,1,0,1,1,Drink more water,0
+272,39,1,0,0,0,1,1,0,0,Eat healthy,1
+273,38,0,6,1,0,1,1,0,0,Exercise daily,2
+274,81,2,1,0,0,0,0,0,0,Drink more water,0
+275,0,1,1,1,1,1,1,0,0,Drink more water,0
+276,10,1,8,1,0,0,1,1,0,Exercise daily,2
+277,91,5,4,1,0,1,1,0,0,Eat healthy,1
+278,56,0,1,1,1,1,1,1,1,Eat healthy,1
+279,88,1,8,0,1,1,1,1,1,Eat healthy,1
+280,49,5,8,0,1,0,1,0,0,Drink more water,0
+281,22,2,0,1,0,1,0,0,1,Drink more water,0
+282,30,3,2,1,0,1,0,0,0,Eat healthy,1
+283,93,0,3,0,0,1,0,1,0,Get enough sleep,3
+284,41,7,6,0,1,0,0,0,0,Eat healthy,1
+285,98,6,9,0,0,0,0,1,0,Exercise daily,2
+286,6,6,3,0,1,0,1,0,0,Drink more water,0
+287,15,2,1,0,0,1,0,1,1,Exercise daily,2
+288,89,9,6,0,1,0,0,0,1,Exercise daily,2
+289,59,9,5,1,0,1,1,0,1,Drink more water,0
+290,1,2,2,0,0,0,1,1,1,Get enough sleep,3
+291,0,1,5,0,0,0,0,0,0,Eat healthy,1
+292,47,0,5,1,1,1,1,0,1,Exercise daily,2
+293,11,6,4,0,1,0,1,0,0,Drink more water,0
+294,68,6,3,0,0,1,1,0,1,Exercise daily,2
+295,36,1,9,0,0,1,1,0,1,Eat healthy,1
+296,31,6,0,0,0,0,0,0,1,Get enough sleep,3
+297,8,7,9,0,1,1,1,0,1,Get enough sleep,3
+298,98,0,5,1,0,1,0,1,0,Get enough sleep,3
+299,18,8,1,0,0,0,0,1,1,Drink more water,0
+300,47,6,2,1,0,0,1,0,1,Drink more water,0
+301,79,2,7,1,0,1,1,0,0,Get enough sleep,3
+302,2,7,9,0,1,0,1,0,0,Eat healthy,1
+303,19,6,5,1,1,1,0,1,1,Eat healthy,1
+304,23,7,2,0,0,1,1,1,0,Drink more water,0
+305,53,5,6,1,0,0,1,0,0,Get enough sleep,3
+306,32,8,3,1,1,0,1,1,0,Eat healthy,1
+307,23,4,8,0,1,0,1,0,1,Eat healthy,1
+308,74,2,4,0,0,0,1,0,0,Eat healthy,1
+309,71,2,2,0,1,1,0,0,1,Drink more water,0
+310,35,0,1,0,1,1,1,0,1,Get enough sleep,3
+311,37,7,1,0,0,0,1,1,1,Exercise daily,2
+312,83,1,2,1,1,0,1,1,1,Get enough sleep,3
+313,98,2,1,1,1,1,0,0,0,Get enough sleep,3
+314,88,7,3,1,0,1,1,1,1,Drink more water,0
+315,98,7,1,1,0,1,0,1,0,Eat healthy,1
+316,24,3,9,1,1,1,0,0,1,Eat healthy,1
+317,92,3,8,1,0,0,1,1,0,Drink more water,0
+318,17,4,1,1,1,1,1,0,1,Drink more water,0
+319,81,5,8,0,0,1,1,0,0,Drink more water,0
+320,65,4,5,0,1,0,0,0,1,Drink more water,0
+321,53,6,0,1,0,1,0,0,1,Drink more water,0
+322,34,1,3,1,1,1,0,1,0,Exercise daily,2
+323,79,6,0,0,1,0,0,0,1,Get enough sleep,3
+324,60,9,5,0,1,0,0,1,1,Get enough sleep,3
+325,40,6,3,0,0,0,0,0,1,Get enough sleep,3
+326,99,0,2,0,0,1,1,0,0,Eat healthy,1
+327,32,6,2,1,1,1,1,1,1,Exercise daily,2
+328,67,4,8,0,1,0,0,0,1,Get enough sleep,3
+329,32,2,5,1,0,0,1,1,0,Eat healthy,1
+330,13,2,8,1,0,1,1,1,0,Exercise daily,2
+331,20,3,4,1,0,0,0,0,0,Exercise daily,2
+332,47,1,1,0,0,0,0,0,0,Eat healthy,1
+333,19,1,7,0,0,0,1,0,0,Exercise daily,2
+334,7,0,4,1,0,1,0,0,1,Eat healthy,1
+335,6,4,1,1,1,1,0,0,1,Get enough sleep,3
+336,66,3,3,1,0,1,1,0,1,Eat healthy,1
+337,16,9,8,0,1,1,0,1,0,Exercise daily,2
+338,32,1,3,1,0,1,1,1,1,Get enough sleep,3
+339,47,2,3,0,0,1,1,0,0,Get enough sleep,3
+340,75,6,1,1,1,0,1,1,0,Drink more water,0
+341,58,6,5,1,1,1,1,1,1,Drink more water,0
+342,85,3,1,1,0,1,1,0,0,Exercise daily,2
+343,21,4,6,0,1,0,0,0,0,Eat healthy,1
+344,29,4,2,0,1,1,0,1,1,Eat healthy,1
+345,37,5,2,1,1,1,0,0,0,Exercise daily,2
+346,50,8,4,0,1,0,0,1,0,Get enough sleep,3
+347,53,1,2,1,0,0,1,0,1,Exercise daily,2
+348,7,4,1,0,1,0,1,1,0,Exercise daily,2
+349,26,2,9,0,0,1,0,1,0,Get enough sleep,3
+350,26,3,8,0,0,0,1,1,1,Eat healthy,1
+351,97,9,1,1,0,1,0,1,1,Exercise daily,2
+352,20,5,1,0,0,1,0,0,1,Eat healthy,1
+353,29,7,7,0,1,1,0,0,1,Exercise daily,2
+354,96,0,8,1,1,1,1,1,0,Get enough sleep,3
+355,27,9,6,1,0,0,1,1,0,Get enough sleep,3
+356,63,7,2,1,0,0,1,0,1,Drink more water,0
+357,96,6,8,1,0,1,1,0,0,Get enough sleep,3
+358,68,0,2,0,0,0,0,1,0,Drink more water,0
+359,60,1,4,0,1,1,1,1,1,Exercise daily,2
+360,47,2,8,0,0,1,1,1,1,Eat healthy,1
+361,18,0,2,0,1,1,1,1,0,Get enough sleep,3
+362,3,8,6,0,0,0,0,1,1,Get enough sleep,3
+363,34,7,0,1,0,1,0,0,1,Get enough sleep,3
+364,63,1,3,0,0,1,1,1,1,Exercise daily,2
+365,48,8,3,0,0,0,1,0,0,Drink more water,0
+366,16,6,6,0,1,0,1,0,1,Exercise daily,2
+367,43,8,7,1,1,0,1,0,0,Eat healthy,1
+368,91,5,0,1,1,0,0,1,0,Exercise daily,2
+369,29,5,4,0,0,1,1,0,0,Eat healthy,1
+370,92,3,6,1,0,0,1,0,1,Get enough sleep,3
+371,45,9,3,1,1,1,1,0,1,Eat healthy,1
+372,5,9,3,1,1,0,0,0,1,Eat healthy,1
+373,98,1,3,1,0,0,0,1,1,Drink more water,0
+374,36,6,5,1,0,0,1,1,1,Eat healthy,1
+375,23,4,6,1,1,0,1,0,0,Eat healthy,1
+376,92,5,1,1,0,0,1,0,0,Exercise daily,2
+377,45,1,4,0,0,0,1,1,0,Get enough sleep,3
+378,52,4,3,0,1,1,1,1,1,Exercise daily,2
+379,94,9,2,1,0,0,0,1,0,Exercise daily,2
+380,98,3,6,0,1,0,0,0,0,Get enough sleep,3
+381,59,8,5,0,0,0,0,1,1,Get enough sleep,3
+382,96,5,6,1,1,0,1,0,1,Eat healthy,1
+383,62,1,4,0,0,1,0,0,0,Eat healthy,1
+384,84,0,5,1,1,0,0,1,0,Drink more water,0
+385,31,4,4,1,1,0,0,0,1,Exercise daily,2
+386,86,8,6,1,1,0,1,1,1,Get enough sleep,3
+387,32,5,1,0,1,0,1,0,1,Eat healthy,1
+388,66,9,4,0,0,1,0,1,1,Get enough sleep,3
+389,17,6,5,0,0,0,1,0,0,Eat healthy,1
+390,24,4,5,0,1,1,0,0,0,Drink more water,0
+391,94,9,4,1,0,0,0,1,1,Drink more water,0
+392,53,5,9,1,0,1,0,1,0,Get enough sleep,3
+393,57,4,6,0,0,1,0,1,0,Drink more water,0
+394,66,8,9,1,0,0,1,1,1,Get enough sleep,3
+395,45,5,7,1,0,0,1,0,0,Eat healthy,1
+396,23,7,6,0,1,1,1,1,0,Exercise daily,2
+397,31,1,4,1,1,1,1,1,0,Drink more water,0
+398,46,8,0,0,1,0,0,0,1,Eat healthy,1
+399,85,4,4,1,1,1,1,1,1,Exercise daily,2
+400,22,6,9,0,0,1,0,1,0,Exercise daily,2
+401,65,9,1,1,0,1,1,0,1,Exercise daily,2
+402,26,0,4,1,1,0,1,1,1,Eat healthy,1
+403,1,9,4,0,0,1,1,1,1,Eat healthy,1
+404,89,4,1,0,0,1,0,1,0,Get enough sleep,3
+405,16,9,4,0,1,1,0,1,0,Exercise daily,2
+406,32,1,3,0,0,0,0,1,1,Exercise daily,2
+407,8,5,0,1,1,0,0,1,0,Exercise daily,2
+408,42,0,2,1,1,1,1,0,0,Get enough sleep,3
+409,47,2,0,0,0,0,0,1,0,Exercise daily,2
+410,38,4,4,1,0,1,0,0,0,Eat healthy,1
+411,92,3,3,0,1,0,1,0,0,Exercise daily,2
+412,41,2,6,0,1,0,1,0,1,Drink more water,0
+413,25,9,4,1,0,1,0,0,0,Eat healthy,1
+414,98,4,9,1,1,0,1,1,0,Get enough sleep,3
+415,49,7,3,0,1,0,0,1,0,Exercise daily,2
+416,24,3,1,0,1,0,1,1,1,Drink more water,0
+417,23,0,3,0,0,1,0,0,1,Get enough sleep,3
+418,12,6,1,1,1,0,0,1,1,Get enough sleep,3
+419,59,7,7,1,0,0,0,1,0,Eat healthy,1
+420,6,2,2,1,1,1,0,1,1,Get enough sleep,3
+421,56,5,8,1,0,0,0,0,1,Get enough sleep,3
+422,35,1,3,0,1,0,1,0,1,Get enough sleep,3
+423,44,6,5,0,0,0,0,1,1,Get enough sleep,3
+424,19,7,9,0,0,0,0,0,0,Exercise daily,2
+425,64,5,4,0,0,0,0,0,1,Exercise daily,2
+426,7,5,9,0,1,1,0,1,1,Exercise daily,2
+427,15,4,0,0,1,1,0,0,0,Exercise daily,2
+428,13,7,8,1,1,0,1,0,0,Drink more water,0
+429,75,0,0,1,0,0,1,1,1,Exercise daily,2
+430,86,9,7,0,1,0,0,0,0,Get enough sleep,3
+431,14,3,8,0,0,1,1,0,1,Exercise daily,2
+432,91,3,8,1,1,1,0,0,0,Exercise daily,2
+433,97,2,0,1,0,0,1,0,0,Eat healthy,1
+434,65,2,1,1,0,0,1,0,1,Get enough sleep,3
+435,31,3,0,1,0,1,0,0,0,Exercise daily,2
+436,86,0,9,0,1,0,1,0,1,Exercise daily,2
+437,62,1,1,0,1,1,1,0,0,Exercise daily,2
+438,85,8,9,0,1,1,0,1,1,Drink more water,0
+439,50,9,7,0,0,0,0,1,0,Exercise daily,2
+440,24,1,4,0,0,1,1,1,0,Eat healthy,1
+441,57,4,6,1,1,0,1,1,0,Get enough sleep,3
+442,62,8,1,0,1,0,1,0,0,Get enough sleep,3
+443,61,8,7,1,1,0,0,1,0,Exercise daily,2
+444,21,7,5,0,0,0,1,1,1,Exercise daily,2
+445,57,0,7,0,0,0,1,0,0,Exercise daily,2
+446,57,0,0,0,0,0,1,0,1,Get enough sleep,3
+447,85,8,0,0,0,1,0,0,1,Get enough sleep,3
+448,48,7,6,0,0,1,0,0,1,Drink more water,0
+449,51,9,7,1,1,1,0,0,0,Eat healthy,1
+450,41,8,2,1,0,1,0,1,1,Drink more water,0
+451,69,6,4,1,0,0,1,0,0,Eat healthy,1
+452,14,2,0,0,0,1,0,1,1,Drink more water,0
+453,53,2,6,0,0,1,1,1,1,Get enough sleep,3
+454,59,1,4,1,0,1,1,0,1,Drink more water,0
+455,96,4,7,0,1,0,1,1,1,Eat healthy,1
+456,7,2,7,0,0,1,1,1,1,Exercise daily,2
+457,52,5,8,1,0,0,0,0,0,Eat healthy,1
+458,59,1,6,0,0,1,0,1,1,Exercise daily,2
+459,4,2,0,1,1,0,0,1,1,Get enough sleep,3
+460,67,4,2,0,1,0,0,1,0,Eat healthy,1
+461,5,0,7,1,1,1,0,0,0,Drink more water,0
+462,95,0,2,0,0,0,1,0,0,Eat healthy,1
+463,93,9,7,0,1,0,0,0,1,Exercise daily,2
+464,46,8,0,1,0,1,0,1,1,Get enough sleep,3
+465,98,6,4,0,0,1,0,0,1,Drink more water,0
+466,54,0,3,0,1,1,0,1,1,Eat healthy,1
+467,39,7,4,1,0,0,1,0,1,Exercise daily,2
+468,51,2,7,0,0,0,1,1,1,Drink more water,0
+469,15,7,9,1,0,0,1,0,0,Get enough sleep,3
+470,12,4,3,0,1,1,1,0,0,Drink more water,0
+471,29,0,3,0,0,0,1,1,1,Get enough sleep,3
+472,18,6,2,0,0,0,0,0,1,Drink more water,0
+473,16,4,6,0,1,0,1,1,1,Eat healthy,1
+474,62,5,2,1,0,0,1,0,1,Exercise daily,2
+475,18,5,2,0,0,0,1,0,1,Eat healthy,1
+476,91,7,9,1,1,0,0,1,0,Eat healthy,1
+477,57,8,4,0,0,0,0,1,0,Get enough sleep,3
+478,54,1,4,0,0,1,1,1,1,Get enough sleep,3
+479,89,8,5,0,0,1,0,0,0,Get enough sleep,3
+480,89,9,7,0,0,1,0,1,1,Eat healthy,1
+481,61,8,9,1,0,0,1,0,1,Drink more water,0
+482,22,9,5,1,1,0,0,1,1,Drink more water,0
+483,8,9,0,1,1,1,0,1,0,Eat healthy,1
+484,11,6,7,1,1,0,0,1,0,Eat healthy,1
+485,0,0,7,0,1,1,1,1,1,Exercise daily,2
+486,57,6,8,1,0,0,1,1,0,Get enough sleep,3
+487,0,9,8,1,0,0,1,1,0,Get enough sleep,3
+488,33,4,1,0,0,1,0,0,1,Eat healthy,1
+489,95,5,1,0,0,1,1,1,0,Eat healthy,1
+490,47,9,2,0,0,1,0,0,0,Drink more water,0
+491,88,6,0,0,1,1,0,1,1,Eat healthy,1
+492,0,4,3,1,1,1,0,1,1,Drink more water,0
+493,15,6,3,1,0,0,1,1,0,Eat healthy,1
+494,60,8,8,0,0,0,1,0,1,Exercise daily,2
+495,63,2,8,0,0,0,1,0,0,Exercise daily,2
+496,62,7,8,0,1,1,1,1,1,Drink more water,0
+497,68,1,9,1,0,1,0,0,1,Get enough sleep,3
+498,21,6,6,1,0,1,1,1,1,Exercise daily,2
+499,92,1,1,0,0,1,0,1,1,Drink more water,0
+500,66,3,9,0,1,1,1,0,0,Eat healthy,1
+501,75,6,4,1,0,1,1,0,1,Eat healthy,1
+502,25,2,3,0,1,0,1,0,1,Drink more water,0
+503,15,1,7,0,1,0,0,0,1,Get enough sleep,3
+504,50,9,1,1,1,0,0,1,0,Drink more water,0
+505,85,6,5,0,1,0,0,0,0,Drink more water,0
+506,56,0,4,1,1,0,0,0,1,Exercise daily,2
+507,28,7,1,0,1,1,0,1,1,Drink more water,0
+508,77,2,9,0,0,1,1,0,1,Drink more water,0
+509,91,1,0,1,0,1,0,0,1,Eat healthy,1
+510,68,2,7,1,0,1,0,0,1,Exercise daily,2
+511,46,4,1,0,1,1,0,0,1,Eat healthy,1
+512,93,7,6,1,0,1,0,1,0,Eat healthy,1
+513,61,9,8,0,1,0,1,1,1,Get enough sleep,3
+514,68,6,8,0,1,1,0,0,1,Get enough sleep,3
+515,75,6,7,1,1,1,1,0,1,Exercise daily,2
+516,15,6,9,0,0,1,1,1,1,Exercise daily,2
+517,89,7,8,0,1,1,1,0,1,Get enough sleep,3
+518,89,0,1,1,1,0,0,0,1,Get enough sleep,3
+519,47,3,5,1,0,0,1,0,0,Get enough sleep,3
+520,84,5,3,0,0,1,0,0,0,Get enough sleep,3
+521,38,8,3,1,1,0,0,0,0,Get enough sleep,3
+522,99,1,4,1,1,0,0,0,0,Eat healthy,1
+523,32,0,2,1,0,1,0,0,0,Exercise daily,2
+524,93,9,0,1,0,1,0,0,0,Eat healthy,1
+525,22,1,7,0,0,1,1,0,1,Eat healthy,1
+526,9,6,4,0,1,1,1,1,1,Drink more water,0
+527,68,2,2,0,0,1,0,1,1,Eat healthy,1
+528,99,9,9,1,0,0,1,1,1,Get enough sleep,3
+529,33,1,6,1,0,1,0,0,1,Get enough sleep,3
+530,51,6,6,1,1,1,1,0,1,Drink more water,0
+531,94,1,0,1,0,1,1,1,0,Drink more water,0
+532,9,2,8,1,0,0,1,0,1,Drink more water,0
+533,18,6,1,1,0,1,1,1,0,Drink more water,0
+534,57,3,4,1,0,1,1,0,0,Drink more water,0
+535,95,0,4,0,0,1,0,1,1,Eat healthy,1
+536,0,4,7,0,1,0,0,1,1,Drink more water,0
+537,68,8,7,1,1,1,1,1,1,Eat healthy,1
+538,3,7,6,1,1,1,0,0,1,Exercise daily,2
+539,15,8,6,1,0,1,1,1,1,Drink more water,0
+540,23,9,5,0,1,0,0,0,1,Drink more water,0
+541,79,8,5,0,1,1,1,0,1,Eat healthy,1
+542,1,6,8,1,1,1,1,0,0,Exercise daily,2
+543,91,3,5,1,0,1,1,0,1,Eat healthy,1
+544,31,4,1,0,0,0,0,0,1,Eat healthy,1
+545,90,0,1,0,1,1,0,0,0,Drink more water,0
+546,83,0,4,0,1,1,1,0,1,Get enough sleep,3
+547,23,2,3,0,0,1,1,1,1,Get enough sleep,3
+548,11,7,1,1,0,0,0,1,0,Eat healthy,1
+549,49,1,2,0,1,0,0,1,1,Drink more water,0
+550,34,3,6,0,0,1,0,0,1,Exercise daily,2
+551,32,1,7,1,1,0,0,0,1,Get enough sleep,3
+552,32,4,5,0,0,0,0,0,1,Exercise daily,2
+553,60,8,4,0,1,0,1,0,1,Get enough sleep,3
+554,50,0,0,0,1,1,0,1,1,Drink more water,0
+555,42,4,7,1,0,1,1,0,0,Eat healthy,1
+556,11,8,2,0,1,0,1,1,1,Exercise daily,2
+557,66,0,5,1,1,0,0,0,1,Exercise daily,2
+558,64,8,2,1,1,0,0,1,0,Eat healthy,1
+559,32,7,6,0,0,1,1,0,0,Exercise daily,2
+560,39,3,6,0,0,1,0,1,1,Get enough sleep,3
+561,73,9,8,0,0,0,1,0,0,Eat healthy,1
+562,42,4,4,0,1,0,0,1,1,Get enough sleep,3
+563,43,4,7,1,0,0,0,0,1,Get enough sleep,3
+564,28,5,9,0,1,0,0,1,0,Drink more water,0
+565,12,6,9,0,1,1,1,1,1,Get enough sleep,3
+566,11,7,7,0,0,0,0,0,1,Drink more water,0
+567,94,7,0,1,0,1,1,1,0,Exercise daily,2
+568,45,1,4,0,1,0,0,0,0,Exercise daily,2
+569,1,8,2,0,1,0,1,0,0,Drink more water,0
+570,34,6,0,1,0,0,0,0,0,Get enough sleep,3
+571,86,3,3,1,0,0,1,1,1,Eat healthy,1
+572,80,3,7,0,0,0,1,1,0,Eat healthy,1
+573,89,7,2,0,1,1,1,0,0,Drink more water,0
+574,7,3,9,0,1,0,1,0,0,Exercise daily,2
+575,92,5,1,0,1,0,1,1,0,Exercise daily,2
+576,25,4,8,0,1,0,1,1,0,Eat healthy,1
+577,73,2,9,1,1,1,0,1,1,Drink more water,0
+578,89,9,4,1,0,1,1,0,0,Eat healthy,1
+579,33,1,6,0,0,1,1,0,1,Get enough sleep,3
+580,6,8,1,0,1,1,1,0,0,Get enough sleep,3
+581,67,9,8,1,1,0,0,0,0,Drink more water,0
+582,57,8,8,0,0,0,0,0,0,Drink more water,0
+583,74,0,3,0,0,0,0,1,0,Get enough sleep,3
+584,28,9,3,0,0,1,1,0,0,Exercise daily,2
+585,35,2,5,0,0,0,0,1,0,Drink more water,0
+586,88,7,9,0,1,0,0,1,0,Get enough sleep,3
+587,20,5,9,1,0,1,1,0,0,Get enough sleep,3
+588,35,4,9,0,1,1,1,1,1,Exercise daily,2
+589,9,4,5,0,0,1,0,0,0,Exercise daily,2
+590,72,5,0,0,0,0,1,1,1,Exercise daily,2
+591,23,6,8,1,0,0,1,0,0,Exercise daily,2
+592,63,0,1,1,1,1,1,0,1,Eat healthy,1
+593,98,8,4,1,1,0,1,1,0,Exercise daily,2
+594,48,2,8,1,0,1,0,0,0,Eat healthy,1
+595,98,3,3,0,1,1,1,1,0,Drink more water,0
+596,35,9,2,1,1,0,0,0,1,Get enough sleep,3
+597,81,0,6,0,0,1,0,0,1,Eat healthy,1
+598,95,9,5,0,0,1,0,0,1,Drink more water,0
+599,23,2,7,1,1,1,0,1,1,Drink more water,0
+600,22,1,2,1,1,0,1,1,0,Eat healthy,1
+601,61,1,4,1,1,1,1,0,0,Drink more water,0
+602,95,0,9,1,0,1,1,1,0,Drink more water,0
+603,36,7,3,1,0,1,0,0,1,Eat healthy,1
+604,11,2,3,0,1,1,0,1,0,Drink more water,0
+605,54,2,3,1,0,1,0,1,1,Exercise daily,2
+606,12,5,9,1,0,1,1,0,1,Exercise daily,2
+607,22,7,7,1,1,1,0,0,1,Get enough sleep,3
+608,88,8,5,0,1,0,1,0,1,Drink more water,0
+609,98,8,2,1,0,0,1,0,1,Get enough sleep,3
+610,29,3,9,0,0,1,1,0,0,Exercise daily,2
+611,16,4,4,1,1,0,1,1,1,Exercise daily,2
+612,61,1,5,1,0,0,0,1,1,Exercise daily,2
+613,83,8,4,0,0,1,1,0,0,Drink more water,0
+614,88,7,5,1,1,0,0,0,1,Drink more water,0
+615,85,2,7,0,1,1,1,0,1,Exercise daily,2
+616,12,8,6,0,0,1,0,1,0,Get enough sleep,3
+617,58,2,4,0,0,1,0,0,0,Get enough sleep,3
+618,18,8,9,1,0,1,1,0,0,Eat healthy,1
+619,48,1,5,1,1,1,1,1,1,Exercise daily,2
+620,99,9,3,1,0,0,1,1,0,Get enough sleep,3
+621,11,8,8,0,0,1,0,1,0,Exercise daily,2
+622,60,7,3,1,1,0,1,1,0,Get enough sleep,3
+623,18,8,0,0,1,1,1,0,1,Eat healthy,1
+624,75,4,6,1,0,1,0,1,0,Eat healthy,1
+625,8,1,6,0,1,1,1,1,1,Exercise daily,2
+626,70,7,3,0,1,0,0,0,1,Get enough sleep,3
+627,27,5,2,0,0,1,1,0,0,Drink more water,0
+628,77,7,7,1,1,1,0,0,1,Eat healthy,1
+629,94,4,4,0,1,1,0,1,1,Exercise daily,2
+630,51,9,9,0,0,1,1,0,0,Exercise daily,2
+631,82,1,6,0,1,0,0,1,1,Get enough sleep,3
+632,15,5,3,0,0,1,1,1,0,Exercise daily,2
+633,68,4,3,0,0,0,1,1,1,Eat healthy,1
+634,98,4,7,0,1,1,0,0,1,Exercise daily,2
+635,11,0,7,1,1,0,1,1,0,Exercise daily,2
+636,24,1,1,1,1,0,0,0,0,Drink more water,0
+637,51,7,1,0,0,1,0,0,1,Drink more water,0
+638,84,2,2,1,1,1,0,0,1,Eat healthy,1
+639,99,9,2,1,0,0,0,1,0,Get enough sleep,3
+640,52,2,0,0,1,1,0,1,1,Drink more water,0
+641,22,7,2,0,1,1,0,1,1,Get enough sleep,3
+642,15,7,5,0,1,1,0,0,1,Eat healthy,1
+643,56,1,7,1,0,0,0,1,1,Drink more water,0
+644,38,7,9,0,1,1,1,1,0,Get enough sleep,3
+645,52,0,5,1,1,1,1,1,0,Drink more water,0
+646,41,5,4,0,0,1,0,1,0,Eat healthy,1
+647,57,7,3,1,0,0,1,1,0,Eat healthy,1
+648,38,2,2,0,1,1,1,0,0,Drink more water,0
+649,13,7,3,0,1,0,1,0,0,Get enough sleep,3
+650,94,0,6,1,1,1,1,0,1,Exercise daily,2
+651,4,8,0,1,0,0,1,0,0,Exercise daily,2
+652,34,8,6,1,0,1,1,1,1,Drink more water,0
+653,86,4,0,1,0,1,0,0,1,Get enough sleep,3
+654,92,9,1,1,0,0,1,1,1,Exercise daily,2
+655,74,3,3,1,1,0,1,0,0,Eat healthy,1
+656,17,5,0,0,0,0,1,0,1,Get enough sleep,3
+657,75,6,8,1,0,1,1,0,0,Exercise daily,2
+658,8,4,5,0,0,1,0,1,1,Get enough sleep,3
+659,73,9,0,0,1,1,0,1,1,Drink more water,0
+660,57,8,0,1,1,1,0,0,0,Get enough sleep,3
+661,16,2,5,0,0,0,0,1,1,Exercise daily,2
+662,6,6,3,1,0,1,1,0,1,Drink more water,0
+663,45,9,3,1,1,1,0,0,1,Get enough sleep,3
+664,12,9,5,0,1,1,0,0,1,Eat healthy,1
+665,39,4,6,0,1,1,0,1,0,Exercise daily,2
+666,41,6,8,1,1,1,0,0,1,Drink more water,0
+667,8,1,9,1,1,1,1,0,1,Get enough sleep,3
+668,49,3,4,0,1,1,0,0,0,Eat healthy,1
+669,26,1,8,0,1,0,1,1,1,Exercise daily,2
+670,65,6,3,0,1,1,0,0,1,Eat healthy,1
+671,4,1,9,0,0,1,1,1,1,Get enough sleep,3
+672,28,0,1,1,0,1,1,0,1,Get enough sleep,3
+673,36,8,2,1,0,1,0,1,0,Drink more water,0
+674,37,0,0,1,0,0,0,0,1,Eat healthy,1
+675,82,7,5,1,0,0,0,0,0,Drink more water,0
+676,7,1,5,0,0,0,0,1,1,Exercise daily,2
+677,64,7,0,0,1,0,1,1,1,Drink more water,0
+678,85,2,2,1,1,0,1,0,1,Exercise daily,2
+679,16,5,4,1,0,0,0,1,0,Get enough sleep,3
+680,70,2,2,1,0,1,0,0,1,Get enough sleep,3
+681,88,6,9,1,1,0,1,0,1,Eat healthy,1
+682,44,9,2,1,1,0,0,0,0,Exercise daily,2
+683,3,8,9,1,1,1,1,1,0,Get enough sleep,3
+684,35,1,2,1,0,0,0,0,0,Eat healthy,1
+685,69,4,4,1,1,1,1,1,0,Eat healthy,1
+686,30,5,4,1,0,1,1,0,1,Drink more water,0
+687,18,3,3,0,0,0,1,1,1,Eat healthy,1
+688,60,3,0,1,1,1,1,1,1,Get enough sleep,3
+689,53,3,4,0,1,0,1,0,1,Drink more water,0
+690,38,1,9,0,0,0,0,1,0,Exercise daily,2
+691,90,3,4,1,1,1,1,0,1,Exercise daily,2
+692,73,0,3,1,1,1,0,0,1,Get enough sleep,3
+693,89,5,5,0,0,0,1,0,1,Get enough sleep,3
+694,18,0,9,0,1,1,1,0,1,Drink more water,0
+695,38,9,3,1,0,1,0,0,0,Drink more water,0
+696,66,5,6,0,0,0,0,1,1,Get enough sleep,3
+697,44,0,6,1,1,0,0,0,1,Get enough sleep,3
+698,12,5,1,1,0,1,0,1,1,Exercise daily,2
+699,91,9,2,1,0,0,1,1,0,Exercise daily,2
+700,57,7,0,0,1,0,0,0,0,Exercise daily,2
+701,19,1,7,0,1,0,1,1,1,Get enough sleep,3
+702,91,1,8,1,1,0,0,0,1,Eat healthy,1
+703,71,3,3,0,0,0,0,1,1,Get enough sleep,3
+704,60,2,5,0,0,0,1,1,0,Get enough sleep,3
+705,38,3,8,0,1,0,1,1,1,Exercise daily,2
+706,0,6,5,0,0,1,0,0,1,Get enough sleep,3
+707,2,0,8,0,1,0,1,1,1,Drink more water,0
+708,76,5,3,0,1,1,1,0,0,Get enough sleep,3
+709,91,2,7,0,0,1,1,1,1,Get enough sleep,3
+710,61,9,8,1,1,1,1,1,1,Get enough sleep,3
+711,62,6,3,0,0,0,1,1,0,Get enough sleep,3
+712,24,9,4,0,0,0,1,1,0,Eat healthy,1
+713,55,1,7,0,1,1,1,0,1,Get enough sleep,3
+714,32,1,9,0,0,0,1,0,0,Drink more water,0
+715,37,3,5,0,1,1,0,1,1,Drink more water,0
+716,5,0,6,0,0,0,1,1,0,Get enough sleep,3
+717,57,2,2,0,0,0,0,0,0,Exercise daily,2
+718,43,8,6,0,0,1,1,0,1,Eat healthy,1
+719,44,6,7,1,1,1,1,0,1,Get enough sleep,3
+720,31,6,9,0,0,1,1,0,1,Get enough sleep,3
+721,44,3,5,0,1,0,1,1,0,Get enough sleep,3
+722,60,1,9,0,0,1,0,1,1,Exercise daily,2
+723,46,3,8,0,0,0,0,0,1,Exercise daily,2
+724,20,5,5,1,1,0,1,0,1,Exercise daily,2
+725,79,2,8,1,1,0,0,0,1,Eat healthy,1
+726,84,0,3,1,1,1,1,0,1,Drink more water,0
+727,74,7,7,1,1,1,1,0,0,Eat healthy,1
+728,35,4,3,1,1,1,0,0,1,Exercise daily,2
+729,98,4,1,1,0,0,0,1,1,Drink more water,0
+730,18,3,9,1,0,0,1,1,0,Drink more water,0
+731,19,5,8,1,1,1,1,1,1,Exercise daily,2
+732,56,2,4,1,0,0,0,0,1,Exercise daily,2
+733,17,8,3,1,0,0,1,0,1,Eat healthy,1
+734,46,4,1,1,0,1,0,0,1,Exercise daily,2
+735,48,2,0,1,1,1,1,1,1,Drink more water,0
+736,13,0,6,1,0,1,1,0,0,Get enough sleep,3
+737,14,9,5,1,0,0,0,0,0,Exercise daily,2
+738,30,5,1,1,0,0,0,1,0,Exercise daily,2
+739,0,1,7,1,1,0,0,0,1,Eat healthy,1
+740,53,2,3,0,0,0,1,1,0,Eat healthy,1
+741,2,0,7,1,0,0,1,1,1,Exercise daily,2
+742,15,8,6,0,1,1,1,0,1,Drink more water,0
+743,86,7,4,1,1,0,1,1,1,Drink more water,0
+744,56,1,9,1,0,0,0,0,0,Get enough sleep,3
+745,74,7,9,0,0,0,1,1,0,Exercise daily,2
+746,11,8,7,1,1,1,1,0,0,Eat healthy,1
+747,73,0,8,0,1,1,1,1,1,Drink more water,0
+748,95,4,4,0,1,1,0,0,0,Get enough sleep,3
+749,15,7,9,0,1,0,1,1,1,Exercise daily,2
+750,71,1,4,1,1,1,1,1,0,Drink more water,0
+751,75,3,1,1,1,1,0,1,0,Exercise daily,2
+752,23,6,4,1,1,1,1,0,1,Exercise daily,2
+753,27,2,2,0,0,0,1,0,1,Drink more water,0
+754,7,4,6,0,1,1,0,1,0,Drink more water,0
+755,91,7,9,1,1,0,1,0,0,Drink more water,0
+756,35,9,4,1,0,0,1,1,0,Exercise daily,2
+757,89,2,7,1,1,1,1,0,1,Exercise daily,2
+758,7,3,0,1,1,0,0,1,1,Get enough sleep,3
+759,57,8,2,1,0,1,1,0,0,Eat healthy,1
+760,59,6,2,0,1,0,1,1,0,Exercise daily,2
+761,49,0,8,0,0,1,0,1,1,Eat healthy,1
+762,27,3,4,0,0,1,0,1,0,Drink more water,0
+763,91,3,8,1,0,1,1,1,1,Exercise daily,2
+764,40,8,8,0,0,0,1,0,1,Get enough sleep,3
+765,99,5,0,0,1,1,1,1,1,Get enough sleep,3
+766,63,8,1,0,0,0,1,0,1,Eat healthy,1
+767,26,5,4,0,0,1,0,0,1,Drink more water,0
+768,62,5,3,0,1,0,1,1,1,Eat healthy,1
+769,16,4,9,1,0,0,0,0,0,Drink more water,0
+770,72,4,8,0,0,1,0,0,1,Get enough sleep,3
+771,32,1,6,1,0,1,1,0,1,Eat healthy,1
+772,83,7,5,1,0,1,1,1,0,Get enough sleep,3
+773,76,7,6,1,1,1,0,0,1,Get enough sleep,3
+774,91,0,0,1,0,1,0,0,0,Drink more water,0
+775,28,7,0,1,1,0,1,1,1,Eat healthy,1
+776,12,4,7,0,1,1,0,1,0,Eat healthy,1
+777,45,1,1,0,0,1,1,0,0,Get enough sleep,3
+778,34,1,9,1,0,0,1,1,1,Get enough sleep,3
+779,5,5,8,1,0,1,0,0,1,Drink more water,0
+780,81,8,6,1,0,1,0,0,1,Exercise daily,2
+781,68,0,5,0,1,0,1,0,1,Exercise daily,2
+782,46,5,0,1,1,1,0,1,0,Get enough sleep,3
+783,24,8,0,0,1,1,1,0,0,Exercise daily,2
+784,65,7,1,1,0,1,1,1,0,Exercise daily,2
+785,9,5,5,0,1,0,1,1,1,Exercise daily,2
+786,55,2,5,1,0,1,0,0,0,Exercise daily,2
+787,29,7,1,0,0,0,1,1,1,Get enough sleep,3
+788,4,8,0,1,0,1,1,1,1,Exercise daily,2
+789,32,0,9,0,0,0,1,1,0,Exercise daily,2
+790,64,8,4,0,0,1,1,1,1,Drink more water,0
+791,17,5,4,0,1,0,1,1,0,Get enough sleep,3
+792,95,5,1,0,1,0,1,0,1,Eat healthy,1
+793,48,3,5,0,0,0,1,1,0,Eat healthy,1
+794,10,0,8,0,1,0,1,0,1,Drink more water,0
+795,84,9,1,0,0,0,1,0,0,Drink more water,0
+796,25,7,9,1,0,0,1,0,0,Get enough sleep,3
+797,62,1,1,1,0,1,1,0,1,Eat healthy,1
+798,88,0,2,1,1,1,0,0,1,Exercise daily,2
+799,85,1,6,1,0,0,1,0,0,Drink more water,0
+800,58,0,5,1,0,0,1,1,1,Eat healthy,1
+801,26,0,7,0,1,0,1,1,1,Get enough sleep,3
+802,48,8,7,0,1,0,0,1,1,Exercise daily,2
+803,76,0,5,0,1,1,1,0,0,Get enough sleep,3
+804,32,3,9,0,0,0,0,1,0,Drink more water,0
+805,97,9,2,0,0,1,1,1,1,Eat healthy,1
+806,98,5,2,1,1,1,1,1,1,Eat healthy,1
+807,0,6,0,1,0,0,0,0,0,Eat healthy,1
+808,20,1,6,1,1,0,1,1,1,Eat healthy,1
+809,54,5,4,1,1,1,0,0,0,Exercise daily,2
+810,5,6,3,0,0,1,0,1,1,Exercise daily,2
+811,91,9,9,0,0,0,1,0,1,Get enough sleep,3
+812,80,9,3,0,1,0,1,0,1,Exercise daily,2
+813,68,1,3,1,1,0,1,0,0,Drink more water,0
+814,94,1,5,0,1,1,1,1,0,Drink more water,0
+815,4,9,7,1,1,1,0,1,0,Eat healthy,1
+816,2,6,7,0,0,0,0,0,0,Drink more water,0
+817,52,0,4,0,1,1,1,1,1,Get enough sleep,3
+818,22,7,5,1,1,1,0,0,1,Exercise daily,2
+819,52,2,3,0,1,0,0,0,0,Exercise daily,2
+820,36,5,8,0,0,0,1,1,1,Exercise daily,2
+821,73,8,7,1,0,1,0,1,1,Drink more water,0
+822,73,5,9,0,1,1,0,1,0,Exercise daily,2
+823,82,8,9,1,0,0,1,0,1,Eat healthy,1
+824,16,6,0,0,0,0,0,0,1,Eat healthy,1
+825,84,8,1,0,0,0,1,1,0,Eat healthy,1
+826,77,1,8,0,1,0,0,0,1,Drink more water,0
+827,72,7,7,0,1,0,1,1,1,Exercise daily,2
+828,0,7,2,0,0,1,0,0,1,Drink more water,0
+829,50,1,7,0,1,1,0,1,0,Exercise daily,2
+830,44,3,0,0,1,1,1,1,0,Get enough sleep,3
+831,76,6,9,0,0,1,1,0,1,Get enough sleep,3
+832,3,3,3,1,0,0,1,1,1,Drink more water,0
+833,61,3,2,1,1,0,1,1,1,Eat healthy,1
+834,64,5,5,0,0,0,0,0,0,Drink more water,0
+835,31,9,6,0,1,1,0,1,0,Eat healthy,1
+836,33,5,3,1,1,1,0,0,0,Exercise daily,2
+837,91,9,6,0,0,1,1,1,1,Eat healthy,1
+838,94,2,8,0,1,0,0,0,1,Eat healthy,1
+839,71,8,1,1,1,1,0,1,1,Exercise daily,2
+840,38,9,2,0,0,0,1,1,1,Get enough sleep,3
+841,25,1,4,0,0,0,1,1,1,Exercise daily,2
+842,33,5,2,1,0,0,0,1,0,Drink more water,0
+843,53,6,7,0,1,0,1,0,1,Drink more water,0
+844,2,8,9,0,0,0,0,0,1,Drink more water,0
+845,49,2,7,1,0,0,0,0,1,Drink more water,0
+846,11,9,7,0,0,1,1,0,0,Drink more water,0
+847,64,2,8,1,0,0,0,0,1,Get enough sleep,3
+848,53,6,3,0,1,0,1,0,0,Get enough sleep,3
+849,4,3,4,0,1,1,1,0,0,Eat healthy,1
+850,93,7,4,1,0,0,0,1,0,Drink more water,0
+851,93,6,7,1,1,1,0,1,0,Exercise daily,2
+852,56,4,6,0,0,1,0,1,0,Drink more water,0
+853,16,6,8,1,0,1,1,1,1,Get enough sleep,3
+854,46,2,7,1,1,0,0,0,1,Drink more water,0
+855,22,1,1,0,1,0,1,0,0,Get enough sleep,3
+856,78,5,9,0,0,1,1,0,0,Eat healthy,1
+857,84,1,3,0,0,0,0,1,0,Eat healthy,1
+858,13,2,5,1,1,0,1,0,1,Eat healthy,1
+859,65,5,1,1,0,1,0,1,1,Get enough sleep,3
+860,74,4,6,1,1,1,0,0,0,Drink more water,0
+861,50,7,2,1,0,0,0,0,1,Drink more water,0
+862,37,8,2,0,0,1,0,0,1,Exercise daily,2
+863,63,2,1,1,1,1,0,0,0,Get enough sleep,3
+864,97,9,7,0,1,1,0,1,0,Exercise daily,2
+865,37,2,5,1,1,0,0,1,1,Eat healthy,1
+866,49,2,0,0,1,0,1,0,1,Drink more water,0
+867,97,5,0,0,1,0,0,1,1,Get enough sleep,3
+868,81,0,6,0,1,1,1,0,0,Exercise daily,2
+869,29,6,7,1,1,0,1,0,0,Exercise daily,2
+870,78,0,4,0,0,1,1,0,0,Exercise daily,2
+871,90,4,4,0,0,0,0,0,1,Drink more water,0
+872,50,9,3,1,0,0,1,1,1,Drink more water,0
+873,62,7,5,0,1,1,1,0,0,Drink more water,0
+874,97,3,5,1,1,0,0,0,1,Get enough sleep,3
+875,51,4,2,1,1,1,0,1,0,Drink more water,0
+876,37,3,8,0,0,0,1,0,1,Get enough sleep,3
+877,96,3,6,0,1,0,0,1,0,Exercise daily,2
+878,87,7,0,1,1,1,0,0,1,Exercise daily,2
+879,78,1,6,0,0,1,0,0,1,Eat healthy,1
+880,29,0,4,1,1,1,0,0,0,Drink more water,0
+881,50,2,4,1,0,0,1,0,0,Exercise daily,2
+882,80,8,1,1,0,0,0,0,0,Drink more water,0
+883,4,3,3,0,1,0,0,0,0,Get enough sleep,3
+884,28,9,5,1,1,1,0,1,0,Exercise daily,2
+885,3,4,9,0,1,1,1,0,1,Drink more water,0
+886,9,1,6,0,0,1,1,1,0,Exercise daily,2
+887,55,3,4,0,0,0,0,1,0,Exercise daily,2
+888,16,1,8,0,0,0,0,0,0,Drink more water,0
+889,73,1,2,1,1,1,1,1,0,Exercise daily,2
+890,16,3,0,0,1,0,0,0,0,Exercise daily,2
+891,83,5,3,1,1,1,0,1,1,Exercise daily,2
+892,87,6,8,1,1,0,1,0,0,Exercise daily,2
+893,68,9,3,0,0,0,0,1,0,Get enough sleep,3
+894,33,2,1,1,0,1,0,1,0,Exercise daily,2
+895,5,2,9,1,0,0,1,0,1,Eat healthy,1
+896,52,9,4,0,0,0,1,1,1,Exercise daily,2
+897,65,5,2,1,1,1,0,0,0,Drink more water,0
+898,76,2,8,1,1,1,1,0,0,Eat healthy,1
+899,42,1,3,1,1,0,0,0,1,Get enough sleep,3
+900,74,7,5,1,0,1,0,0,1,Eat healthy,1
+901,22,4,1,0,0,0,0,0,1,Eat healthy,1
+902,54,0,5,1,1,1,1,1,0,Eat healthy,1
+903,79,2,2,1,1,0,1,1,0,Drink more water,0
+904,94,9,8,1,0,0,0,1,1,Drink more water,0
+905,74,7,1,1,1,1,0,0,0,Drink more water,0
+906,15,3,8,0,0,0,1,1,1,Get enough sleep,3
+907,7,6,4,1,0,0,1,1,1,Drink more water,0
+908,3,9,7,0,0,1,1,1,1,Drink more water,0
+909,3,1,1,1,1,1,0,1,0,Eat healthy,1
+910,55,6,5,0,1,0,1,1,1,Drink more water,0
+911,24,4,2,0,0,1,1,0,1,Exercise daily,2
+912,66,4,9,0,1,1,0,0,0,Drink more water,0
+913,95,5,4,0,0,0,0,1,1,Get enough sleep,3
+914,66,8,7,0,0,0,0,0,0,Get enough sleep,3
+915,26,5,9,1,0,1,1,0,1,Exercise daily,2
+916,92,7,0,1,0,1,0,1,0,Get enough sleep,3
+917,31,6,4,1,1,1,0,1,1,Get enough sleep,3
+918,49,8,2,0,0,0,0,0,1,Eat healthy,1
+919,60,3,3,1,0,0,0,1,1,Exercise daily,2
+920,50,1,1,0,1,0,1,0,1,Eat healthy,1
+921,18,6,8,0,0,0,0,0,1,Eat healthy,1
+922,20,5,2,1,0,0,1,1,0,Drink more water,0
+923,4,0,1,1,1,0,1,0,0,Exercise daily,2
+924,81,8,9,0,1,0,1,0,1,Drink more water,0
+925,91,8,8,0,1,1,0,0,1,Drink more water,0
+926,41,1,6,1,0,1,1,1,1,Eat healthy,1
+927,60,2,5,1,1,0,0,1,0,Get enough sleep,3
+928,21,4,0,1,1,0,0,1,0,Exercise daily,2
+929,20,4,4,1,0,0,0,1,1,Get enough sleep,3
+930,69,0,2,0,0,1,1,0,0,Eat healthy,1
+931,0,7,0,1,0,0,0,1,1,Eat healthy,1
+932,4,7,3,1,0,1,0,1,1,Eat healthy,1
+933,11,3,1,1,0,1,0,1,1,Eat healthy,1
+934,89,6,1,0,1,1,1,1,0,Eat healthy,1
+935,45,9,2,0,1,1,1,0,1,Eat healthy,1
+936,33,2,7,0,1,1,1,0,1,Get enough sleep,3
+937,48,5,7,0,0,0,0,0,1,Drink more water,0
+938,77,9,6,1,0,0,1,1,0,Get enough sleep,3
+939,89,9,5,0,0,1,0,1,0,Exercise daily,2
+940,44,8,8,1,1,0,0,0,0,Get enough sleep,3
+941,26,0,3,1,1,1,1,1,1,Eat healthy,1
+942,72,4,0,1,0,1,0,1,0,Get enough sleep,3
+943,25,3,7,1,1,0,1,0,1,Drink more water,0
+944,46,7,6,0,0,0,0,0,0,Exercise daily,2
+945,85,0,6,0,1,0,1,1,1,Get enough sleep,3
+946,55,8,2,0,1,0,0,1,0,Drink more water,0
+947,93,5,3,1,1,0,0,1,1,Get enough sleep,3
+948,62,3,9,1,0,1,0,0,0,Exercise daily,2
+949,47,8,8,1,1,0,0,0,0,Get enough sleep,3
+950,60,4,5,1,1,0,0,0,0,Eat healthy,1
+951,80,4,4,1,0,0,1,0,1,Get enough sleep,3
+952,25,4,2,0,1,1,0,1,0,Drink more water,0
+953,35,0,8,1,0,0,1,0,0,Get enough sleep,3
+954,0,0,4,0,0,1,1,0,0,Drink more water,0
+955,7,7,4,1,0,0,1,1,0,Exercise daily,2
+956,98,7,3,1,0,0,0,1,1,Get enough sleep,3
+957,51,5,3,0,0,1,0,1,0,Exercise daily,2
+958,78,3,0,0,1,0,0,0,1,Exercise daily,2
+959,46,1,6,1,0,0,1,1,1,Get enough sleep,3
+960,55,1,8,1,0,1,0,1,1,Drink more water,0
+961,85,8,2,1,0,0,0,0,1,Exercise daily,2
+962,13,4,1,1,0,1,1,0,0,Exercise daily,2
+963,89,3,2,0,1,1,1,1,1,Get enough sleep,3
+964,27,9,0,1,0,1,1,0,1,Get enough sleep,3
+965,86,0,5,0,1,1,1,1,1,Get enough sleep,3
+966,77,6,6,1,0,1,1,1,1,Get enough sleep,3
+967,87,2,1,0,1,0,1,0,0,Get enough sleep,3
+968,1,5,7,0,0,0,0,1,0,Eat healthy,1
+969,25,4,5,1,0,0,1,0,1,Get enough sleep,3
+970,13,4,3,0,1,1,0,0,1,Drink more water,0
+971,58,4,4,1,0,1,0,0,1,Exercise daily,2
+972,55,0,7,0,1,1,0,1,0,Drink more water,0
+973,6,0,2,1,0,1,1,0,0,Drink more water,0
+974,2,2,2,0,1,0,0,0,0,Eat healthy,1
+975,22,9,3,1,0,0,1,1,0,Get enough sleep,3
+976,17,3,0,1,0,1,1,1,0,Exercise daily,2
+977,37,4,8,0,1,1,0,1,1,Drink more water,0
+978,98,1,7,0,0,0,1,1,0,Get enough sleep,3
+979,14,7,7,0,0,1,0,0,0,Get enough sleep,3
+980,63,1,9,0,0,1,0,0,1,Eat healthy,1
+981,88,8,5,1,0,1,1,0,0,Eat healthy,1
+982,27,1,6,0,0,0,0,1,0,Eat healthy,1
+983,73,8,5,1,0,0,0,1,0,Exercise daily,2
+984,38,6,8,0,1,1,0,0,1,Drink more water,0
+985,56,7,2,1,1,0,1,1,0,Eat healthy,1
+986,16,1,2,1,1,1,0,1,1,Eat healthy,1
+987,85,6,2,1,0,1,1,0,1,Eat healthy,1
+988,89,5,9,1,1,0,1,0,0,Drink more water,0
+989,43,3,2,0,0,1,0,1,0,Drink more water,0
+990,24,6,8,0,0,1,0,1,0,Eat healthy,1
+991,16,3,3,1,0,0,1,1,0,Eat healthy,1
+992,12,1,6,0,0,1,1,0,1,Get enough sleep,3
+993,83,9,8,0,1,1,0,0,0,Eat healthy,1
+994,24,6,6,1,0,1,0,0,1,Exercise daily,2
+995,67,7,8,0,1,0,1,0,1,Exercise daily,2
+996,9,1,2,0,0,1,1,0,1,Eat healthy,1
+997,66,4,3,0,1,0,1,1,1,Drink more water,0
+998,17,0,7,1,1,1,1,1,1,Get enough sleep,3
+999,99,6,5,0,1,1,1,1,0,Drink more water,0
+1000,85,7,4,1,1,1,0,0,1,Eat healthy,1
